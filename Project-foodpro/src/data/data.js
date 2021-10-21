@@ -1,19 +1,21 @@
 export let foods=[
             {
                 id:'001',
+                name: 'Tomato',
+                imgSrc: require('assets/images/foods/tomato.png'),
+                added:'9/7',
+                expired:1,
+                type:'vegetable'
+                
+            },
+            {
+                id:'002',
                 name: 'Beef',
                 imgSrc: require('assets/images/foods/beef.png'),
                 added:'9/12',
                 expired:2,
-                type:'meat'
-            },
-            {
-                id:'002',
-                name: 'Chili',
-                imgSrc: require('assets/images/foods/chili.png'),
-                added:'9/7',
-                expired:5,
-                type:'vegetable'
+                type:'meat' 
+                
             },
             {
                 id:'003',
@@ -28,23 +30,24 @@ export let foods=[
                 name: 'Shrimp',
                 imgSrc: require('assets/images/foods/shrimp.png'),
                 added:'9/10',
-                expired:7,
+                expired:5,
                 type:'vegetable'
             },
             {
                 id:'005',
-                name: 'Tomato',
-                imgSrc: require('assets/images/foods/tomato.png'),
+                name: 'Chili',
+                imgSrc: require('assets/images/foods/chili.png'),
                 added:'9/7',
-                expired:1,
+                expired:7,
                 type:'vegetable'
+                       
             },
             {
                 id:'006',
                 name: 'Eggs',
                 imgSrc: require('assets/images/foods/eggs.png'),
                 added:'9/13',
-                expired:6,
+                expired:16,
                 type:'meat'
             }
 
