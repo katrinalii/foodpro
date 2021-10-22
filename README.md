@@ -14,3 +14,5 @@ STEPS FOR DEPLOYING PROTOTYPE:
 * https://drive.google.com/file/d/1ha6ex7f4JIONg6kJ61jdadyoql-fVuBb/view?usp=sharing
 * Video:
 * https://drive.google.com/file/d/1pX7I3GtpFOyaCG7MLoOQRCT6FZT6Cabx/view?usp=sharing
+Or try this
+* https://www.youtube.com/watch?v=iRAQgkwkdo4
